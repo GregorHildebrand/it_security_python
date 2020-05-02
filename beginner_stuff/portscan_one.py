@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
-# Beginner python progra what is scanning one port 
-# on a specific ip-addr
+# Beginner python program what is scanning 
+# one port on a specific ip-addr
 
 import socket
 
