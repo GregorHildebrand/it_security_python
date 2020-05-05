@@ -1,14 +1,14 @@
 #!/usr/bin/python
 
-# Beginner python program what is scanning 
-# one port on a specific ip-addr
+# The following program is created by:
+# Gregor Hildebrand (University of Wuppertal)
+# It is a beginner python program what is scanning one port on a specific ip-addr
 
 import socket
 
-# for IPv4-addr and TCP-Packets
-# TCP-Handshake for one port is executed
+# for IPv4-addr and TCP-Packets; TCP-Handshake for one port is executed
 sock = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-host = "ip_addr"
+host = "given_ip_addr"
 port = whatever_port_number
 
 def portscanner(port):
