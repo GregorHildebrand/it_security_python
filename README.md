@@ -1,2 +1,2 @@
 # learning_python
-Learning stuff
+Learning stuff written in python
