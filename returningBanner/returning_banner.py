@@ -18,8 +18,7 @@ def returnBanner(ip,port):
 def main():
 	# type in the ipv4-addr
 	ip = raw_input("[*?*] Enter ip-addr: ")
-	# scanning all ports
-	#for port in range(1,100):
+	# scanning specified port
 	port = int(raw_input("[*?*] enter port number: "))
 	banner = returnBanner(ip,port)
 	if banner:
