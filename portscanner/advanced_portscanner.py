@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Copyright (c) 2020 Gregor Hildebrand (University of Wuppertal)
+# Copyright (c) 2020 Gregor Hildebrand
 
 import socket, optparse, threading
 from termcolor import colored
