@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-# Copyright (c) 2020 Gregor Hildebrand (University of Wuppertal)
+# Copyright (c) 2020 Gregor Hildebrand
 # It is a beginner python program what is scanning one port on a specific ip-addr
 
 import socket
